@@ -11,8 +11,8 @@ MFRC522 mfrc522(SS_PIN, RST_PIN);  // Create MFRC522 instance
 
 //Copyend
 
-#define SSID Buffalo-G-79EA
-#define PASSWORD takeuchilab2110
+#define SSID *************
+#define PASSWORD ***********
 
 void setup() {
   //RC522 Copy to scketch example "DumpInfo"
